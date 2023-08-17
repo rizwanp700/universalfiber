@@ -1,0 +1,402 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.navbar{
+    background-color:#faf4ef ;
+    position: relative;
+    /* height: auto; */
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    
+    
+
+}
+.logo{
+    padding-inline-start: 10vw;
+    padding-top: 15px;
+  
+}
+.search img{
+    position: absolute;
+    right: 17.117vw;
+    top: 30px;
+    border-right: 3px solid #fd826c;
+    padding-bottom: 0%;
+    width: 40px;
+  
+    
+    
+}
+.en{
+    float: right;
+    margin-right:14.154vw;
+    margin-top: -19px;
+    color: #fd826c;
+    
+    margin-top:-41px;  
+    font-family:  sans-serif;
+    font-size: 10px;
+    
+}
+
+.linebox{
+    float: right;
+    margin-right:180px;
+    margin-top: -42px;   
+    font-size: 19px;
+
+}
+
+.hed{
+
+    margin-top: -29rem;
+    font-family:  sans-serif;
+    font-size: 37px;
+    color: white;
+    margin-left: 10vw;
+}
+.hed1{
+    color: white;
+    font-family:  sans-serif;
+    margin-left: 10rem;
+    margin-top: 2rem;
+
+}
+.button button{
+    font-size: 18px;
+    background-color:#fd826c;
+    color: white;
+    border: none;
+    width: 267px;
+    height: 53px;
+    border-radius: 3px;
+    font-family:"Google Sans", Arial, sans-serif ;
+    margin-left: 10rem;
+    margin-top: 3rem;
+    
+
+}
+/* .main3{
+    color: #444444;
+    font-family:  sans-serif;
+    margin-top: 14rem;
+    margin-left: 10vw;
+    line-height: 26px;
+    font-size: 16px;
+    height: 240px;
+} */
+.main2{
+    background-color:#faf4ef;
+    width:100% ;
+    height:25rem ;
+    margin-top: 8.5vw;
+   
+    
+    /* margin-top: 14vw; */
+    /* margin-left: 10rem; */
+   
+
+}
+.main2 p{
+    color: #394855;
+    margin-left: 10vw;
+    font-family: Epilogue, sans-serif;
+    font-size: 18px;
+    line-height: 28px;
+}
+.main2 h1{
+    color:#fd826c ;
+    margin-bottom: 1vw;
+    padding-top: 6vw;
+    margin-left: 10vw;
+    font-family: Epilogue, sans-serif;
+
+}
+
+.moving{
+    background-image: url('./image/asset\ 2.jpeg');
+    background-attachment: fixed;
+    object-fit: cover;
+    background-size: contain;
+    height: 25vw;
+
+}
+.buttonn button{
+    font-size: 18px;
+    background-color:#fd826c;
+    color: white;
+    border: none;
+    width: 267px;
+    height: 53px;
+    border-radius: 3px;
+    font-family:"Google Sans", Arial, sans-serif ;
+    margin-left: 37rem;
+    margin-top: 9rem;
+}
+.mod{
+    margin-left: 11vw;
+    
+
+
+
+}
+
+
+.write h1{
+    color: #fd826c;
+    margin-left: 43rem;
+    margin-top: -26vw;
+    line-height: 45px;
+    font-size: 40px;
+    font-family:Epilogue, sans-serif ;
+
+}
+.write p{
+    margin-left: 43rem;
+    margin-top: 2vw;
+    font-size: 18px;
+    line-height: 28px;
+    font-family: Epilogue, sans-serif;
+    color: #394855;
+    
+}
+.mod2{
+    margin-left: 50vw;
+    margin-top: 6vw;
+}
+.explain h1{
+    color: #fd826c;
+    margin-left: -37rem;
+    margin-top: -21vw;
+    line-height: 34px;
+    /* font-size: 40px; */
+    font-family:Epilogue, sans-serif ;
+
+
+}
+.explain p{
+    margin-left: -37rem;
+    margin-top: 2vw;
+    font-size: 18px;
+    line-height: 28px;
+    font-family: Epilogue, sans-serif;
+    color: #394855;
+    
+
+}
+.mod3{
+    margin-left: 11vw;
+    margin-top: 11vw;
+    display: flex;
+    
+}
+.grahp h1{
+    color: #fd826c;
+    margin-left: 6rem;
+    margin-top: 6vw;
+    line-height: 45px;
+    font-size: 40px;
+    font-family:Epilogue, sans-serif ;
+
+}
+.grahp p{
+    margin-left: 6rem;
+    margin-top: 2vw;
+    font-size: 18px;
+    line-height: 28px;
+    font-family: Epilogue, sans-serif;
+    color: #394855;
+
+}
+.mod4{
+    margin-left: 50vw;
+
+}
+.under{
+    background-color: #fd826c;
+    margin-top: 11vw;
+    width: 100%;
+    height: 500px;
+    position: relative;
+    
+    
+}
+.under img{
+    margin-left: 50vw;
+}
+.naam{
+    position: absolute;
+   
+    top: 7vw;
+    
+    
+
+}
+.naam h1{
+
+    color:#7a5050;
+    margin-left: 11rem; 
+    margin-top: 1vw;
+    /* line-height: 34px; */
+    font-size: 40px;
+    font-family:Epilogue, sans-serif ;
+
+
+}
+.naam p{
+    margin-left: 11rem;
+    margin-top: 2rem;
+  
+    font-size: 16px;
+    line-height: 28px;
+    font-family: Epilogue, sans-serif;
+    color: #394855;
+
+}
+.neew button{
+    font-size: 14px;
+    background-color:#7a5050 ;
+    color: white;
+    border: none;
+    width: 9vw;
+    height: 48px;
+    border-radius: 4px;
+    font-family:"Google Sans", Roboto, Arial, sans-serif ;
+    
+   
+  
+}
+.neew{
+    margin-top: -13rem;
+    margin-left: 11vw;
+    
+
+}
+.under1{
+    background-color: #93d0da;
+    height: 14vw;
+    display: flex;
+    gap: 44vw;
+    padding-left: 11vw;
+    padding-top: 4rem;
+    line-height: 8vw;
+}
+.cad button{
+    font-size: 15px;
+    background-color:#444444 ;
+    color: white;
+    border: none;
+    width: 9vw;
+    height: 48px;
+    border-radius: 4px;
+    font-family: sans-serif ;
+
+}
+.help{
+    font-size: 18px;
+    font-family:sans-serif ;
+    color: #394855;
+    line-height: 4vw;
+
+}
+footer{
+    background-color: #394855;
+    height: 60vw;
+}
+.logg{
+    padding-left: 10vw;
+    padding-top: 6rem;
+}
+.ads{
+    padding-left: 10vw;
+    margin-top: 2vw;
+}
+
+
+.lisa{
+    margin-left: 38vw;
+    margin-top:-14vw ;
+    
+}
+.lisa h1{
+    color: #fd826c;
+    line-height: 5vw;
+    font-family: sans-serif;
+}
+.lisa ul li{
+    color: white;
+    list-style: none;
+    font-size:15px ;
+    line-height: 2vw;
+    font-family: sans-serif;
+    
+
+}
+.sign{
+
+}
+.lisa1 h1{
+    color: #fd826c;
+    margin-left: 70vw;
+    margin-top:-21vw ;
+
+
+}
+.te hr{
+    width: 25vw;
+    margin-top: 10px;
+    
+}
+.te1 hr{
+    width: 25vw;
+    margin-top: 10px;
+
+}
+.te{
+    margin-left: 38vw;
+    margin-top: 20vw;
+    font-family: sans-serif;
+    color: gray;
+}
+.te p{
+    margin-left: 5px;
+    line-height: 3vw;
+    font-size: 12px;
+}
+.small ul li{
+    list-style: none;
+    margin-left: 38vw;
+    margin-top: 2vw;
+    color: white;
+
+
+
+}
+
+.click button{
+    font-size: 15px;
+    background-color:#fd826c ;
+
+    color: white;
+    border: none;
+    width: 9vw;
+    height: 48px;
+    border-radius: 4px;
+    font-family: sans-serif ;
+}
+.click{
+    margin-left: 38vw;
+    margin-top: 1vw;
+}
+.copyrig{
+    color: white;
+    font-style: italic;
+    font-family: sans-serif;
+    margin-left: 5vw;
+    margin-top: 5vw;
+
+}
+
+
